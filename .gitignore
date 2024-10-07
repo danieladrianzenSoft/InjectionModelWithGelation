@@ -1,0 +1,10 @@
+*.mat
+*.asv
+*.xlsx
+
+continuumMechanics.mat
+cahnHilliard.mat
+massTransport.mat
+parameters.mat
+
+massconservation.xlsx
